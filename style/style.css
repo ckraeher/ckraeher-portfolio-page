@@ -1,0 +1,41 @@
+body {
+    background-color: rgba(62, 69, 81, 0.3);
+}
+
+.navbar {
+    background-color: rgba(62, 69, 81, 0.3);
+}
+
+.container-fluid {
+    height: 768px;
+    width: 1366px;
+    padding: 200px 80px 200px 80px;  
+}
+
+.bg0 {
+    height: auto;
+    padding: 0px 80px 0px 80px;
+}
+
+.bg1 {
+    background-image: url(/images/01Zeichenfl%C3%A4che%201.svg);
+}
+
+.bg2 {
+    background-image: url(/images/01Zeichenfl%C3%A4che%203.svg);
+}
+
+.bg3 {
+    background-image: url(/images/01Zeichenfl%C3%A4che%206.svg);
+}
+
+.bg4 {
+    background-image: url(/images/01Zeichenfl%C3%A4che%204.svg);
+}
+
+.bg5 {
+    height: auto;
+    padding: 50px 0px 100px 0px;
+    background-color: #550000;
+}
+
